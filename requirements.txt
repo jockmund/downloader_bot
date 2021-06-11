@@ -1,0 +1,4 @@
+pyshorteners
+youtube_dl
+aiogram~=2.12
+environs~=8.0.0
